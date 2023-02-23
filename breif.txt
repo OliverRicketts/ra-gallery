@@ -1,0 +1,6 @@
+Project brief – website for Roger RICKETTS
+
+Visuals:
+I need a gallery page for the artist Roger Ricketts that will be hosted on rogersartwork.co.uk. I’ll be testing the code locally on my computer before it goes LIVE on the server. The gallery page will display 100-150 images of different sizes and when the user clicks on an image, it must expand to a size that maintains the image’s aspect ratio but expands to a size that is similar or relative to the size the other images will expand to and must not exceed the user’s visible window area. The images are different sizes and some are portrait and longer than others etc. and it would be ideal for a collage style gallery in which the images sort of “fit together” in the gallery when not expanded individually.
+Code details:
+All of the image files are currently being hosted at https://www.rogersartwork.co.uk/files/artwork/ and every image has a different filename with a .png file extension. The gallery needs to display every image in that folder.
